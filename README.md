@@ -120,7 +120,7 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-This project is in collaboration with [Ayush Heda](https://github.com/ACM40960/project-hedayush97).
+This project is in collaboration with [Yashita Jain](https://github.com/ACM40960/project-Yashita101).
 
 ## References
 
